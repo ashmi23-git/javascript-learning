@@ -9,7 +9,7 @@ console.log(String(b)); // "true"
 console.log(String(c)); // "null"
 console.log(String(d)); // "undefined"
 
-/*Notice that the result is text in every case.
+/* Notice that the result is text in every case.
 The original variable is not changed unless you assign the converted value back to it. */
 // let age=25;
 // String(age);
