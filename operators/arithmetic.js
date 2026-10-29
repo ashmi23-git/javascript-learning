@@ -38,4 +38,4 @@ else{
 console.log(5/2); // 2.5
 console.log(5/0); // Infinity
 console.log(0/0); // NaN
-// Unlike some programming languages, divising a number by zero does not normally throw a division-by-zero exception
+// Unlike some programming languages, dividing a number by zero does not normally throw a division-by-zero exception
